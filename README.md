@@ -14,6 +14,9 @@
 ##### On start:
 ![ScreenShot](https://github.com/lzzsmile/Android_Inventory_Manage_APP/blob/master/onStart.png)
 
+##### With data:
+![ScreenShot](https://github.com/lzzsmile/Android_Inventory_Manage_APP/blob/master/WithData.png)
+
 ##### Add inventory:
 ![ScreenShot](https://github.com/lzzsmile/Android_Inventory_Manage_APP/blob/master/AddProduct.png)
 
